@@ -1,0 +1,13 @@
+c:\users\tamnguyen\documents\visual studio 2013\Projects\QuanLyNhaMay\Main\bin\Debug\Main.exe.config
+c:\users\tamnguyen\documents\visual studio 2013\Projects\QuanLyNhaMay\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+c:\users\tamnguyen\documents\visual studio 2013\Projects\QuanLyNhaMay\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+c:\users\tamnguyen\documents\visual studio 2013\Projects\QuanLyNhaMay\Main\obj\Debug\Main.exe.licenses
+c:\users\tamnguyen\documents\visual studio 2013\Projects\QuanLyNhaMay\Main\bin\Debug\Main.exe
+c:\users\tamnguyen\documents\visual studio 2013\Projects\QuanLyNhaMay\Main\bin\Debug\Main.pdb
+c:\users\tamnguyen\documents\visual studio 2013\Projects\QuanLyNhaMay\Main\obj\Debug\Main.exe
+c:\users\tamnguyen\documents\visual studio 2013\Projects\QuanLyNhaMay\Main\obj\Debug\Main.pdb
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\Main\obj\Debug\Main.GUI.FrmMain.resources
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\Main\obj\Debug\Main.GUI.Login.resources
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\Main\bin\Debug\KetNoi.dll
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\Main\bin\Debug\KetNoi.pdb
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\Main\obj\Debug\Main.GUI.Template_Main.resources

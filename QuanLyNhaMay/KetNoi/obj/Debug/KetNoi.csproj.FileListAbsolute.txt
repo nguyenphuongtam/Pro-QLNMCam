@@ -1,0 +1,21 @@
+D:\DEV\T\H\obj\Debug\KetNoi.csproj.GenerateResource.Cache
+D:\DEV\T\H\bin\Debug\KetNoi.dll
+D:\DEV\T\H\bin\Debug\KetNoi.pdb
+D:\DEV\T\H\obj\Debug\KetNoi.Properties.Resources.resources
+D:\DEV\T\H\obj\Debug\KetNoi.dll
+D:\DEV\T\H\obj\Debug\KetNoi.pdb
+D:\DEV\T\H\obj\Debug\KetNoi.csprojResolveAssemblyReference.cache
+E:\Source Main\DEV\DEV\T\H\bin\Debug\KetNoi.dll
+E:\Source Main\DEV\DEV\T\H\bin\Debug\KetNoi.pdb
+E:\Source Main\DEV\DEV\T\H\obj\Debug\KetNoi.csprojResolveAssemblyReference.cache
+E:\Source Main\DEV\DEV\T\H\obj\Debug\KetNoi.Properties.Resources.resources
+E:\Source Main\DEV\DEV\T\H\obj\Debug\KetNoi.csproj.GenerateResource.Cache
+E:\Source Main\DEV\DEV\T\H\obj\Debug\KetNoi.dll
+E:\Source Main\DEV\DEV\T\H\obj\Debug\KetNoi.pdb
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\KetNoi\bin\Debug\KetNoi.dll
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\KetNoi\bin\Debug\KetNoi.pdb
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\KetNoi\obj\Debug\KetNoi.csprojResolveAssemblyReference.cache
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\KetNoi\obj\Debug\KetNoi.Properties.Resources.resources
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\KetNoi\obj\Debug\KetNoi.csproj.GenerateResource.Cache
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\KetNoi\obj\Debug\KetNoi.dll
+C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\KetNoi\obj\Debug\KetNoi.pdb

@@ -1,0 +1,9 @@
+D:\DEV\T\H\bin\Debug\H.dll
+D:\DEV\T\H\bin\Debug\H.pdb
+D:\DEV\T\H\obj\Debug\H.Form1.resources
+D:\DEV\T\H\obj\Debug\H.Properties.Resources.resources
+D:\DEV\T\H\obj\Debug\H.csproj.GenerateResource.Cache
+D:\DEV\T\H\obj\Debug\H.dll
+D:\DEV\T\H\obj\Debug\H.pdb
+D:\DEV\T\H\obj\Debug\H.UserControl1.resources
+D:\DEV\T\H\obj\Debug\H.csprojResolveAssemblyReference.cache
