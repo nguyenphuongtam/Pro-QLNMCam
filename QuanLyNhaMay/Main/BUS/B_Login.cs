@@ -94,5 +94,12 @@ namespace Main.BUS
             arrPara[1].Value = Encrypt(pass);
             return ac.ftblDocDuLieuSP("sp_User_Login", arrPara);
         }
+        public DataTable GET_MenuParent(int Id)
+        {
+            SqlParameter[] arrPara = new SqlParameter[1];
+            arrPara[0] = new SqlParameter("@Id", SqlDbType.VarChar);
+            arrPara[0].Value = Id;
+            return ac.ftblDocDuLieuSP("sp_Menu_GetParent", arrPara);
+        }
     }
 }

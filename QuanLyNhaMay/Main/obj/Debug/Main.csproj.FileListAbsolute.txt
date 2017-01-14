@@ -11,3 +11,16 @@ C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\Main\obj\D
 C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\Main\bin\Debug\KetNoi.dll
 C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\Main\bin\Debug\KetNoi.pdb
 C:\Users\TamNguyen\Documents\Visual Studio 2013\Projects\QuanLyNhaMay\Main\obj\Debug\Main.GUI.Template_Main.resources
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\bin\Debug\Main.exe.config
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\obj\Debug\Main.exe
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\obj\Debug\Main.pdb
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\bin\Debug\Main.exe
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\bin\Debug\Main.pdb
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\bin\Debug\KetNoi.dll
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\bin\Debug\KetNoi.pdb
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\obj\Debug\Main.GUI.FrmMain.resources
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\obj\Debug\Main.GUI.Login.resources
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\obj\Debug\Main.GUI.Template_Main.resources
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\GITHUB\Pro-QLNMCam\QuanLyNhaMay\Main\obj\Debug\Main.exe.licenses
